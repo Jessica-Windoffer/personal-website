@@ -1,0 +1,45 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.menu {
+  padding: 30px 20px;
+}
+
+.menu-1 {
+  background: #0388fc;
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+.menu li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.menu a {
+  font-size: 22px;
+  text-decoration: none;
+  color: #fff;
+  position: relative;
+  padding: 4px 0;
+}
+
+a:hover {
+  color: rgb(228, 186, 0);
+}
